@@ -8,6 +8,13 @@ The Flipkart Sales Dashboard is a comprehensive tool designed to provide insight
 
 Key performance indicators (KPIs) such as total sales, average sales per order, gross profit, and profit percentage are highlighted, offering a detailed view of sales trends and profitability by product categories.
 
+
+
+![Screenshot](https://github.com/user-attachments/assets/40b7149d-b5af-46f3-b30b-4ef846f254db)
+
+
+
+
 ## Features
 - **Total Sales Overview**: Displays cumulative sales with key metrics like gross profit, profit percentage, and average sales per order.
 - **Sales by Product Category**: Visualizes sales distribution across categories (e.g., Clothes, Electronics, Footwear) for better understanding of category-wise performance.
@@ -33,3 +40,12 @@ This dashboard serves as a dynamic reporting tool, enabling data-driven decision
 - **Sales strategies**
 - **Inventory management**
 - **Profitability**
+
+
+  ## Author - Rahul Upadhayay
+
+  This project is part of my portfolio, showcasing the Power BI skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, 
+  feel.
+  free to get in touch!
+
+Thank you for your support, and I look forward to connecting with you!
